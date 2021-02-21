@@ -1,0 +1,67 @@
+.nav-link {
+    color: white !important;
+}
+
+.rounded-circle {
+    width: 150px;
+    height: 150px;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+#about {
+    background-color: rgb(159, 255, 218);  
+}
+
+#skill {
+    background-color: rgb(98, 248, 98);
+}
+
+.card-header {
+    background-color: rgb(252, 252, 175);
+}
+
+#favourite {
+    background-color:  rgb(159, 255, 218);
+}
+
+#education {
+    background-color: papayawhip;
+}
+
+#footer {
+    background-color: darkblue;
+    color: whitesmoke;
+}
+
+.text {
+    text-align: center;
+}
+
+table, tr, td{
+    border: 1px solid blue;
+}
+
+.carousel-control-next-icon:after {
+    color: black;
+    content: '>';
+    font-size: 55px;
+
+}
+
+.carousel-control-prev-icon:after {
+    color: black;
+    content: '<';
+  font-size: 55px;
+}
+  .carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  background-image: none;
+
+}
